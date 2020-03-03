@@ -1,0 +1,47 @@
+variable: biến
+declaration, declare : khai báo
+initial : ban đầu
+assign: chỉ định, nhập
+represent: đại diện
+similar: giống
+explicit: rõ ràng, minh bạch
+advantage: lợi thế
+reference: liên quan
+inference: suy luận
+compiler: trình biên dịch
+obvious: hiển nhiên
+generic: chung
+conversion: chuyển đổi
+Literal: nghĩa đen 
+achieve: hoàn thành/ đích đến
+negative: tiêu cực
+scope: phạm vi
+delegate: biểu diễn
+separate: tách rời
+operator: toán tử
+valid: có hiệu lực
+iterator: vòng lặp
+extension: mở rộng
+implicit: ngầm hiểu
+omit: bỏ sót
+expression: biểu hiện
+beyond: Vượt ra ngoài
+mutable: đột biến -> immutable
+https://duythanhcse.wordpress.com/2017/05/31/bai-22-lap-trinh-huong-doi-tuong-trong-kotlin-phan-1/   ---> nodejs
+conflicl: xung đột
+Compatibility: Khả năng tương thích
+Performance: Hiệu suất
+Interoperability: khả năng tương tác
+Compilation Time: Thời gian biên soạn
+curve: Đường cong
+asynchronous: bất đồng bộ
+fluid: dễ dàng
+perspective: quan điểm
+scalable: mở rộng
+approaches: tiếp cận
+ flexible: linh hoạt
+capabilities: khả năng
+concept: khái niệm
+ appropriate: thích hợp
+boilerplate: bản mẫu
+tied: ràng buộc
